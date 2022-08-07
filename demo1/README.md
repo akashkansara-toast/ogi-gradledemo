@@ -17,5 +17,5 @@ jar cf demo1.jar org/gradledemo/demo1/**/*.class
 
 4. Run executable
 ```shell
-java -cp demo1.jar org.gradledemo.demo1.Demo 
+java -cp demo1.jar org.gradledemo.demo1.Demo
 ```
